@@ -215,11 +215,7 @@ public void viewAllTender() {
 	
 	
 }
-//bid pandding
-//
-//public void viewAllBid() {
-//	
-//}
+
 
 public void assignTenderToVendor() throws NumberFormatException, IOException {
 	
